@@ -7,4 +7,6 @@ openai
 langchain
 langchain-core
 pandas
+ast
 pydantic
+
